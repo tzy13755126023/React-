@@ -1,0 +1,47 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.container{
+  float: right;
+}
+.left{
+  width: 49%;
+  float: left;
+  height: 700px;
+  background-color: #5f8d72;
+}
+.right{
+  width: 51%;
+  float: right;
+  height: 700px;
+  /*background-color: #5f8d72;*/
+}
+.right img{
+  width: 100%;
+  height: 100%;
+}
+.left,.right{
+  margin-bottom:10px;
+}
+.left ul{
+  font-size: 15px;
+  margin: 20px auto;
+}
+.left ul li a{
+  color: #eaeaea;
+}
+.clear_float{
+  clear:both;
+}
+.clear_float img{
+  width: 100%;
+  height: 100%;
+}

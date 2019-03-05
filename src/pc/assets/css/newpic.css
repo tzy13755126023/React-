@@ -1,0 +1,19 @@
+.new-pic{
+  width: 187px;
+  height: 165px;
+  margin-right: 12px;
+  float: left;
+}
+
+.new-pic img{
+  width: 100%;
+}
+
+.text{
+  display: block;
+  width: 100%;
+}
+
+.text:hover{
+  background: #000;
+}

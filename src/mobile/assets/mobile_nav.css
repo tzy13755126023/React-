@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contain{
+    width: 100%;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #f1f1f1;
+}
+a{
+    color: #222;
+}
+.active{
+    color: #8d4654 !important;
+}
+.mobileNav{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: #f3e5ff;
+}
+.mobileNav ul{
+    list-style: none;
+    display: flex;
+
+}
+.mobileNav ul li{
+    flex: 1;
+    text-align: center;
+}
+.mobileNav ul li i{
+    font-size: 30px;
+    display: block;
+}
+img{
+    float: left;
+    width: 23%;
+    height: 95px;
+    margin-right: 2%;
+    margin-top: 12px;
+}
+.none{
+    margin-left:20px ;
+}
